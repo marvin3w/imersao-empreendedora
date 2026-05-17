@@ -147,4 +147,13 @@ Com a visão escrita, responda:
 
 ---
 
-*Próximo: [Módulo 02 — CCEs: Conjunto da Realização](../Modulo-02-CCEs-Realizacao/02-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 02 — CCEs: Realização](../Modulo-02-CCEs-Realizacao/02-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Autoavaliação do Perfil Empreendedor](01-02-Autoavaliacao-Perfil.md) · [↑ Módulo 01 — Mentalidade Empreendedora](01-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

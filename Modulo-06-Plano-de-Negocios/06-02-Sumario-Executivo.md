@@ -129,4 +129,11 @@ Revise o sumário e marque cada número que você citou. Para cada um, você con
 
 ---
 
-*Próximo: [06-03 Plano Operacional](06-03-Plano-Operacional.md)*
+## Próximo Passo
+
+### [→ Plano Operacional](06-03-Plano-Operacional.md)
+
+
+---
+
+*[← Business Model Canvas](06-01-Business-Model-Canvas.md) · [↑ Módulo 06 — Plano de Negócios](06-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

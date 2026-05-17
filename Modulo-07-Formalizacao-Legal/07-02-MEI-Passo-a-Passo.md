@@ -154,4 +154,11 @@ Com a sua projeção de faturamento, quando você vai atingir o limite anual do 
 
 ---
 
-*Próximo: [07-03 ME, EPP e LTDA](07-03-ME-EPP-LTDA.md)*
+## Próximo Passo
+
+### [→ ME, EPP e LTDA](07-03-ME-EPP-LTDA.md)
+
+
+---
+
+*[← Tipos de Empresa no Brasil](07-01-Tipos-Empresa-Brasil.md) · [↑ Módulo 07 — Formalização Legal](07-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

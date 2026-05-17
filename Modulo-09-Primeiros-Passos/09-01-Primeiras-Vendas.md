@@ -135,4 +135,11 @@ Monte seu calendário dos próximos 30 dias com as ações específicas de cada 
 
 ---
 
-*Próximo: [09-02 Presença Digital Básica](09-02-Presenca-Digital-Basica.md)*
+## Próximo Passo
+
+### [→ Presença Digital Básica](09-02-Presenca-Digital-Basica.md)
+
+
+---
+
+*[← Módulo 09 — Primeiros Passos](09-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

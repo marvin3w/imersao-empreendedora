@@ -172,4 +172,13 @@ Para validação de problema, escreva as 5 perguntas que você vai fazer. Verifi
 
 ---
 
-*Próximo: [Módulo 06 — Plano de Negócios](../Modulo-06-Plano-de-Negocios/06-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 06 — Plano de Negócios](../Modulo-06-Plano-de-Negocios/06-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Proposta de Valor](05-03-Proposta-de-Valor.md) · [↑ Módulo 05 — Ideação e Validação](05-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

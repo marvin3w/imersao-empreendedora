@@ -163,4 +163,11 @@ Monte um calendário de 12 posts para o primeiro mês (3 por semana). Para cada 
 
 ---
 
-*Próximo: [09-03 Gestão do Dia a Dia](09-03-Gestao-Dia-a-Dia.md)*
+## Próximo Passo
+
+### [→ Gestão do Dia a Dia](09-03-Gestao-Dia-a-Dia.md)
+
+
+---
+
+*[← Primeiras Vendas](09-01-Primeiras-Vendas.md) · [↑ Módulo 09 — Primeiros Passos](09-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

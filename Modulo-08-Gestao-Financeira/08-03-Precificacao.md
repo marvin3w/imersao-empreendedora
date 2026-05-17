@@ -169,4 +169,11 @@ Pesquise o preço que os 3 principais concorrentes cobram. O seu preço ideal es
 
 ---
 
-*Próximo: [08-04 Fontes de Financiamento](08-04-Fontes-Financiamento.md)*
+## Próximo Passo
+
+### [→ Fontes de Financiamento](08-04-Fontes-Financiamento.md)
+
+
+---
+
+*[← Fluxo de Caixa](08-02-Fluxo-de-Caixa.md) · [↑ Módulo 08 — Gestão Financeira](08-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

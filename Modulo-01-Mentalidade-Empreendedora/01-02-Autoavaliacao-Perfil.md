@@ -141,4 +141,11 @@ Escolha as 3 CCEs com menor pontuação. Para cada uma, responda:
 
 ---
 
-*Próximo: [01-03 Visão Pessoal e Propósito](01-03-Visao-Pessoal-Proposito.md)*
+## Próximo Passo
+
+### [→ Visão Pessoal e Propósito](01-03-Visao-Pessoal-Proposito.md)
+
+
+---
+
+*[← Lócus de Controle](01-01-Locus-de-Controle.md) · [↑ Módulo 01 — Mentalidade Empreendedora](01-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

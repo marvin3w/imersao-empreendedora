@@ -167,4 +167,13 @@ Usando a fórmula, calcule quanto você precisa faturar por mês para cobrir tod
 
 ---
 
-*Próximo: [Módulo 07 — Formalização Legal](../Modulo-07-Formalizacao-Legal/07-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 07 — Formalização Legal](../Modulo-07-Formalizacao-Legal/07-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Plano de Marketing](06-04-Plano-Marketing.md) · [↑ Módulo 06 — Plano de Negócios](06-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

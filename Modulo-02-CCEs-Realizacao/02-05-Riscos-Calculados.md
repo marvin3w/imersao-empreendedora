@@ -142,4 +142,13 @@ Qual é a menor versão do seu negócio que você poderia testar em 30 a 60 dias
 
 ---
 
-*Próximo: [Módulo 03 — CCEs: Planejamento](../Modulo-03-CCEs-Planejamento/03-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 03 — CCEs: Planejamento](../Modulo-03-CCEs-Planejamento/03-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Qualidade e Eficiência](02-04-Qualidade-Eficiencia.md) · [↑ Módulo 02 — CCEs: Realização](02-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

@@ -181,4 +181,15 @@ Defina os 3 indicadores que você vai acompanhar todo mês. Crie uma planilha si
 
 ---
 
-*Você chegou ao final da jornada de leitura sequencial. Volte ao [Panorama Geral](../00-Panorama-Geral.md) para revisar o mapa completo ou mergulhe em qualquer módulo que ainda precise de aprofundamento.*
+---
+
+## 🏁 Imersão Concluída
+
+Você completou os 9 módulos da Imersão Empreendedora. O próximo passo é agir: escolha **uma** decisão do que leu e execute esta semana.
+
+**[→ Voltar ao Índice da Imersão](../README.md)**
+
+
+---
+
+*[← Presença Digital Básica](09-02-Presenca-Digital-Basica.md) · [↑ Módulo 09 — Primeiros Passos](09-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

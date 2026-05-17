@@ -55,4 +55,13 @@ O equilíbrio é ter clareza sobre o que você acredita (independência) e a cap
 
 ---
 
-*Comece por: [04-01 Persuasão e Rede de Contatos](04-01-Persuasao-Rede-Contatos.md)*
+---
+
+## Próximo Passo
+
+### [→ Persuasão e Rede de Contatos](04-01-Persuasao-Rede-Contatos.md)
+
+
+---
+
+*[← Planejamento e Monitoramento](../Modulo-03-CCEs-Planejamento/03-03-Planejamento-Monitoramento.md) · [🏠 Índice da Imersão](../README.md)*

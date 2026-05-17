@@ -167,4 +167,11 @@ Acesse o Portal do Simples Nacional (receita.economia.gov.br) e identifique em q
 
 ---
 
-*Próximo: [07-05 Alvarás e Licenças](07-05-Alvaras-Licencas.md)*
+## Próximo Passo
+
+### [→ Alvarás e Licenças](07-05-Alvaras-Licencas.md)
+
+
+---
+
+*[← ME, EPP e LTDA](07-03-ME-EPP-LTDA.md) · [↑ Módulo 07 — Formalização Legal](07-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

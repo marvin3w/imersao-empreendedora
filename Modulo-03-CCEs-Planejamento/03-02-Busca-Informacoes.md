@@ -160,4 +160,11 @@ Responda as 6 perguntas listadas acima com base no que você pesquisou. Para as 
 
 ---
 
-*Próximo: [03-03 Planejamento e Monitoramento Sistemático](03-03-Planejamento-Monitoramento.md)*
+## Próximo Passo
+
+### [→ Planejamento e Monitoramento](03-03-Planejamento-Monitoramento.md)
+
+
+---
+
+*[← Estabelecimento de Metas](03-01-Estabelecimento-Metas.md) · [↑ Módulo 03 — CCEs: Planejamento](03-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

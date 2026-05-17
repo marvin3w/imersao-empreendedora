@@ -136,4 +136,11 @@ Para o negócio que você está planejando, liste as 5 atividades principais. Pa
 
 ---
 
-*Próximo: [02-05 Correr Riscos Calculados](02-05-Riscos-Calculados.md)*
+## Próximo Passo
+
+### [→ Riscos Calculados](02-05-Riscos-Calculados.md)
+
+
+---
+
+*[← Comprometimento](02-03-Comprometimento.md) · [↑ Módulo 02 — CCEs: Realização](02-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

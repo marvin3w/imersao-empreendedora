@@ -140,4 +140,11 @@ Escolha 3 pessoas da sua rede que poderiam ajudar seu negócio de alguma forma. 
 
 ---
 
-*Próximo: [04-02 Independência e Autoconfiança](04-02-Independencia-Autoconfianca.md)*
+## Próximo Passo
+
+### [→ Independência e Autoconfiança](04-02-Independencia-Autoconfianca.md)
+
+
+---
+
+*[← Módulo 04 — CCEs: Poder](04-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

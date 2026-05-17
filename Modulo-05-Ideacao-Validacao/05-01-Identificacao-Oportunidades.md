@@ -155,4 +155,11 @@ Fale com 10 pessoas que se encaixam no perfil do cliente da sua ideia. Use as 4 
 
 ---
 
-*Próximo: [05-02 Análise de Mercado](05-02-Analise-de-Mercado.md)*
+## Próximo Passo
+
+### [→ Análise de Mercado](05-02-Analise-de-Mercado.md)
+
+
+---
+
+*[← Módulo 05 — Ideação e Validação](05-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

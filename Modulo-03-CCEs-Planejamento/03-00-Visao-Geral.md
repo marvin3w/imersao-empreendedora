@@ -57,4 +57,13 @@ Sem metas, não há direção. Sem informação, o planejamento é baseado em su
 
 ---
 
-*Comece por: [03-01 Estabelecimento de Metas](03-01-Estabelecimento-Metas.md)*
+---
+
+## Próximo Passo
+
+### [→ Estabelecimento de Metas](03-01-Estabelecimento-Metas.md)
+
+
+---
+
+*[← Riscos Calculados](../Modulo-02-CCEs-Realizacao/02-05-Riscos-Calculados.md) · [🏠 Índice da Imersão](../README.md)*

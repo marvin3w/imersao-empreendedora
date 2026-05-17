@@ -150,4 +150,11 @@ Preencha um Canvas para o principal concorrente do seu negócio, baseado no que 
 
 ---
 
-*Próximo: [06-02 Sumário Executivo](06-02-Sumario-Executivo.md)*
+## Próximo Passo
+
+### [→ Sumário Executivo](06-02-Sumario-Executivo.md)
+
+
+---
+
+*[← Módulo 06 — Plano de Negócios](06-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

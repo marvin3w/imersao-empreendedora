@@ -131,4 +131,11 @@ Pesquise por reclamações de clientes no setor onde você quer atuar. Fontes: a
 
 ---
 
-*Próximo: [02-02 Persistência](02-02-Persistencia.md)*
+## Próximo Passo
+
+### [→ Persistência](02-02-Persistencia.md)
+
+
+---
+
+*[← Módulo 02 — CCEs: Realização](02-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

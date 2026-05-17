@@ -125,4 +125,11 @@ O exercício em si já é uma prática de lócus interno: você reconhece o que 
 
 ---
 
-*Próximo: [01-02 Autoavaliação do Perfil Empreendedor](01-02-Autoavaliacao-Perfil.md)*
+## Próximo Passo
+
+### [→ Autoavaliação do Perfil Empreendedor](01-02-Autoavaliacao-Perfil.md)
+
+
+---
+
+*[← Módulo 01 — Mentalidade Empreendedora](01-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

@@ -63,4 +63,13 @@ Um empreendedor forte em iniciativa mas fraco em persistência vai começar muit
 
 ---
 
-*Comece por: [02-01 Busca de Oportunidades e Iniciativa](02-01-Busca-Oportunidades-Iniciativa.md)*
+---
+
+## Próximo Passo
+
+### [→ Busca de Oportunidades e Iniciativa](02-01-Busca-Oportunidades-Iniciativa.md)
+
+
+---
+
+*[← Visão Pessoal e Propósito](../Modulo-01-Mentalidade-Empreendedora/01-03-Visao-Pessoal-Proposito.md) · [🏠 Índice da Imersão](../README.md)*

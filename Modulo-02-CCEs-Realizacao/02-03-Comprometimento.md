@@ -132,4 +132,11 @@ Todo negócio vai errar em algum momento. Defina antecipadamente: qual é a sua 
 
 ---
 
-*Próximo: [02-04 Exigência de Qualidade e Eficiência](02-04-Qualidade-Eficiencia.md)*
+## Próximo Passo
+
+### [→ Qualidade e Eficiência](02-04-Qualidade-Eficiencia.md)
+
+
+---
+
+*[← Persistência](02-02-Persistencia.md) · [↑ Módulo 02 — CCEs: Realização](02-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

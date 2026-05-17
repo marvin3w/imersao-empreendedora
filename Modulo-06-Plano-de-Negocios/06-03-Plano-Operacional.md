@@ -150,4 +150,11 @@ Para o seu negócio, qual é o elemento operacional que vai ser o primeiro a se 
 
 ---
 
-*Próximo: [06-04 Plano de Marketing](06-04-Plano-Marketing.md)*
+## Próximo Passo
+
+### [→ Plano de Marketing](06-04-Plano-Marketing.md)
+
+
+---
+
+*[← Sumário Executivo](06-02-Sumario-Executivo.md) · [↑ Módulo 06 — Plano de Negócios](06-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

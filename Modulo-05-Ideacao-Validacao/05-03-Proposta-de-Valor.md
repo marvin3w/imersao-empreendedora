@@ -152,4 +152,11 @@ Escreva sua proposta de valor usando o formato apresentado. Mostre para 5 pessoa
 
 ---
 
-*Próximo: [05-04 Validação da Ideia](05-04-Validacao-da-Ideia.md)*
+## Próximo Passo
+
+### [→ Validação da Ideia](05-04-Validacao-da-Ideia.md)
+
+
+---
+
+*[← Análise de Mercado](05-02-Analise-de-Mercado.md) · [↑ Módulo 05 — Ideação e Validação](05-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

@@ -59,4 +59,13 @@ Sem essa separação, você nunca vai saber se o negócio está lucrando ou não
 
 ---
 
-*Comece por: [08-01 Capital de Giro](08-01-Capital-de-Giro.md)*
+---
+
+## Próximo Passo
+
+### [→ Capital de Giro](08-01-Capital-de-Giro.md)
+
+
+---
+
+*[← Alvarás e Licenças](../Modulo-07-Formalizacao-Legal/07-05-Alvaras-Licencas.md) · [🏠 Índice da Imersão](../README.md)*

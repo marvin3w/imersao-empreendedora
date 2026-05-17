@@ -167,4 +167,11 @@ Com base na pesquisa, responda as 6 perguntas básicas listadas acima. Para as q
 
 ---
 
-*Próximo: [05-03 Proposta de Valor](05-03-Proposta-de-Valor.md)*
+## Próximo Passo
+
+### [→ Proposta de Valor](05-03-Proposta-de-Valor.md)
+
+
+---
+
+*[← Identificação de Oportunidades](05-01-Identificacao-Oportunidades.md) · [↑ Módulo 05 — Ideação e Validação](05-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

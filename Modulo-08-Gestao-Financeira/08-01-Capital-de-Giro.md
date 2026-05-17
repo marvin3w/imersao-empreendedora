@@ -142,4 +142,11 @@ Quanto você tem disponível hoje para capital de giro inicial? Isso é suficien
 
 ---
 
-*Próximo: [08-02 Fluxo de Caixa](08-02-Fluxo-de-Caixa.md)*
+## Próximo Passo
+
+### [→ Fluxo de Caixa](08-02-Fluxo-de-Caixa.md)
+
+
+---
+
+*[← Módulo 08 — Gestão Financeira](08-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

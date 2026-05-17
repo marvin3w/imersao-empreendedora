@@ -68,4 +68,13 @@ Mentalidade não é algo que você tem ou não tem. É algo que você pratica. N
 
 ---
 
-*Comece por: [01-01 Lócus de Controle](01-01-Locus-de-Controle.md)*
+---
+
+## Próximo Passo
+
+### [→ Lócus de Controle](01-01-Locus-de-Controle.md)
+
+
+---
+
+*[← Panorama Geral](../00-Panorama-Geral.md) · [🏠 Índice da Imersão](../README.md)*

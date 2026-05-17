@@ -144,4 +144,11 @@ Se sim, qual é a participação de cada um? Quem tem poder de decisão em caso 
 
 ---
 
-*Próximo: [07-04 Tributos e Simples Nacional](07-04-Tributos-Simples-Nacional.md)*
+## Próximo Passo
+
+### [→ Tributos e Simples Nacional](07-04-Tributos-Simples-Nacional.md)
+
+
+---
+
+*[← MEI — Passo a Passo](07-02-MEI-Passo-a-Passo.md) · [↑ Módulo 07 — Formalização Legal](07-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

@@ -147,4 +147,11 @@ Defina quando (dia da semana, horário) você vai fazer sua revisão semanal de 
 
 ---
 
-*Próximo: [03-02 Busca de Informações](03-02-Busca-Informacoes.md)*
+## Próximo Passo
+
+### [→ Busca de Informações](03-02-Busca-Informacoes.md)
+
+
+---
+
+*[← Módulo 03 — CCEs: Planejamento](03-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

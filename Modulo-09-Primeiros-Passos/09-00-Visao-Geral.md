@@ -52,4 +52,13 @@ O que você pode controlar é a velocidade de aprendizado e a qualidade das deci
 
 ---
 
-*Comece por: [09-01 Primeiras Vendas](09-01-Primeiras-Vendas.md)*
+---
+
+## Próximo Passo
+
+### [→ Primeiras Vendas](09-01-Primeiras-Vendas.md)
+
+
+---
+
+*[← Fontes de Financiamento](../Modulo-08-Gestao-Financeira/08-04-Fontes-Financiamento.md) · [🏠 Índice da Imersão](../README.md)*

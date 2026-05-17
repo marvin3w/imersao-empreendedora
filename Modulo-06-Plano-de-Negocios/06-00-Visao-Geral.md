@@ -62,4 +62,13 @@ Para a maioria dos negócios pequenos que estão começando, um plano de 10–15
 
 ---
 
-*Comece por: [06-01 Business Model Canvas](06-01-Business-Model-Canvas.md)*
+---
+
+## Próximo Passo
+
+### [→ Business Model Canvas](06-01-Business-Model-Canvas.md)
+
+
+---
+
+*[← Validação da Ideia](../Modulo-05-Ideacao-Validacao/05-04-Validacao-da-Ideia.md) · [🏠 Índice da Imersão](../README.md)*

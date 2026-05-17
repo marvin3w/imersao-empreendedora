@@ -144,4 +144,11 @@ Com o fluxo projetado, identifique qual vai ser o dia com menor saldo no mês. I
 
 ---
 
-*Próximo: [08-03 Precificação](08-03-Precificacao.md)*
+## Próximo Passo
+
+### [→ Precificação](08-03-Precificacao.md)
+
+
+---
+
+*[← Capital de Giro](08-01-Capital-de-Giro.md) · [↑ Módulo 08 — Gestão Financeira](08-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

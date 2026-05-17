@@ -174,4 +174,13 @@ O SEBRAE oferece orientação gratuita sobre crédito e linhas de financiamento 
 
 ---
 
-*Próximo: [Módulo 09 — Primeiros Passos](../Modulo-09-Primeiros-Passos/09-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 09 — Primeiros Passos](../Modulo-09-Primeiros-Passos/09-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Precificação](08-03-Precificacao.md) · [↑ Módulo 08 — Gestão Financeira](08-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

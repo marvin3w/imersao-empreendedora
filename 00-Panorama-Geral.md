@@ -202,4 +202,11 @@ Se você já tem uma ideia clara e só quer saber como abrir, vá direto para o 
 
 ---
 
-*Próximo passo: [Módulo 01 — Mentalidade Empreendedora](Modulo-01-Mentalidade-Empreendedora/01-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 01 — Mentalidade Empreendedora](Modulo-01-Mentalidade-Empreendedora/01-00-Visao-Geral.md)
+
+
+---
+
+*[← Índice da Imersão](README.md)*

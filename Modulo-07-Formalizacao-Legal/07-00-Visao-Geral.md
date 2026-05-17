@@ -63,4 +63,13 @@ Além do CNPJ, dependendo do tipo de negócio e da cidade, você vai precisar de
 
 ---
 
-*Comece por: [07-01 Tipos de Empresa no Brasil](07-01-Tipos-Empresa-Brasil.md)*
+---
+
+## Próximo Passo
+
+### [→ Tipos de Empresa no Brasil](07-01-Tipos-Empresa-Brasil.md)
+
+
+---
+
+*[← Plano Financeiro](../Modulo-06-Plano-de-Negocios/06-05-Plano-Financeiro.md) · [🏠 Índice da Imersão](../README.md)*

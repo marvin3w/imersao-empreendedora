@@ -150,4 +150,13 @@ Acesse o site da prefeitura da sua cidade ou ligue para o serviço de atendiment
 
 ---
 
-*Próximo: [Módulo 08 — Gestão Financeira](../Modulo-08-Gestao-Financeira/08-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 08 — Gestão Financeira](../Modulo-08-Gestao-Financeira/08-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Tributos e Simples Nacional](07-04-Tributos-Simples-Nacional.md) · [↑ Módulo 07 — Formalização Legal](07-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

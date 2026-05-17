@@ -165,4 +165,11 @@ Liste 3 perguntas para levar a um contador antes de tomar a decisão:
 
 ---
 
-*Próximo: [07-02 MEI — Passo a Passo](07-02-MEI-Passo-a-Passo.md)*
+## Próximo Passo
+
+### [→ MEI — Passo a Passo](07-02-MEI-Passo-a-Passo.md)
+
+
+---
+
+*[← Módulo 07 — Formalização Legal](07-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

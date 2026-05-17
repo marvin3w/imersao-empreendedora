@@ -163,4 +163,11 @@ Para o seu cliente, descreva uma jornada típica: como ele vai descobrir seu neg
 
 ---
 
-*Próximo: [06-05 Plano Financeiro](06-05-Plano-Financeiro.md)*
+## Próximo Passo
+
+### [→ Plano Financeiro](06-05-Plano-Financeiro.md)
+
+
+---
+
+*[← Plano Operacional](06-03-Plano-Operacional.md) · [↑ Módulo 06 — Plano de Negócios](06-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

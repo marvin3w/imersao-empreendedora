@@ -113,3 +113,12 @@ Este material foi desenhado em três camadas. Você decide até onde quer ir:
 Baseado no programa Empretec, desenvolvido pela ONU (UNCTAD) e operado exclusivamente pelo SEBRAE no Brasil, com extensão de conteúdo operacional para cobrir lacunas práticas do curso original.
 
 Informações legais e tributárias devem ser verificadas nas fontes oficiais (SEBRAE, Receita Federal, Junta Comercial estadual) antes de qualquer decisão.
+
+---
+
+## Próximo Passo
+
+### [→ Panorama Geral](00-Panorama-Geral.md)
+
+
+---

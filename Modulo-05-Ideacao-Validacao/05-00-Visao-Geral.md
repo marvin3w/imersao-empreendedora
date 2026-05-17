@@ -58,4 +58,13 @@ Como testar se as pessoas realmente vão pagar pelo que você oferece — antes 
 
 ---
 
-*Comece por: [05-01 Identificação de Oportunidades](05-01-Identificacao-Oportunidades.md)*
+---
+
+## Próximo Passo
+
+### [→ Identificação de Oportunidades](05-01-Identificacao-Oportunidades.md)
+
+
+---
+
+*[← Independência e Autoconfiança](../Modulo-04-CCEs-Poder/04-02-Independencia-Autoconfianca.md) · [🏠 Índice da Imersão](../README.md)*

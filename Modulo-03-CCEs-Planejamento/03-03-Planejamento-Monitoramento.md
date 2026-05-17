@@ -181,4 +181,13 @@ Quais são as 3 métricas que, se melhorarem, indicam que seu negócio está ind
 
 ---
 
-*Próximo: [Módulo 04 — CCEs: Conjunto do Poder](../Modulo-04-CCEs-Poder/04-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 04 — CCEs: Poder](../Modulo-04-CCEs-Poder/04-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Busca de Informações](03-02-Busca-Informacoes.md) · [↑ Módulo 03 — CCEs: Planejamento](03-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*

@@ -157,4 +157,13 @@ Você tem alguma decisão que está evitando tomar, esperando que outros validem
 
 ---
 
-*Próximo: [Módulo 05 — Ideação e Validação](../Modulo-05-Ideacao-Validacao/05-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ Módulo 05 — Ideação e Validação](../Modulo-05-Ideacao-Validacao/05-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← Persuasão e Rede de Contatos](04-01-Persuasao-Rede-Contatos.md) · [↑ Módulo 04 — CCEs: Poder](04-00-Visao-Geral.md) · [🏠 Índice da Imersão](../README.md)*
