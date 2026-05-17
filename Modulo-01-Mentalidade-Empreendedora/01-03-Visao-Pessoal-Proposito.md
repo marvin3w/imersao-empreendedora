@@ -144,6 +144,19 @@ Com a visão escrita, responda:
 - **Livro:** "Start With Why" de Simon Sinek — sobre como o propósito (o "por quê") é o ponto de partida de qualquer negócio ou liderança duradoura
 - **Livro:** "The E-Myth Revisited" de Michael Gerber — sobre o conflito entre o sonho do empreendedor e a realidade da gestão
 - **Exercício:** A técnica Ikigai japonesa — o ponto de encontro entre o que você ama, o que você é bom, o que o mundo precisa e pelo que as pessoas pagam. Uma busca rápida no Google por "Ikigai" mostra o diagrama visual
+---
+
+## Revisão — Módulo 01 — Mentalidade Empreendedora
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Seu lócus de controle é predominantemente interno ou externo? Cite uma decisão recente que ilustra isso.
+
+**2.** Dos comportamentos empreendedores que você avaliou neste módulo, qual é o mais desenvolvido em você e qual exige mais atenção imediata?
+
+**3.** Em uma frase, qual é o seu 'porquê' de empreender — o propósito que vai te sustentar nos momentos difíceis?
+
+
 
 ---
 

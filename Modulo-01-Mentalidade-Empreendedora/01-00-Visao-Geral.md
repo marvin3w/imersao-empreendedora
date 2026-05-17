@@ -9,6 +9,16 @@
 
 ---
 
+## Roteiro do Módulo (3 documentos · ~75 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Lócus de Controle](01-01-Locus-de-Controle.md) | ~25 min |
+| 2 | [Autoavaliação do Perfil Empreendedor](01-02-Autoavaliacao-Perfil.md) | ~30 min |
+| 3 | [Visão Pessoal e Propósito](01-03-Visao-Pessoal-Proposito.md) | ~20 min |
+
+---
+
 ## O que este módulo cobre
 
 Antes de aprender qualquer técnica de negócios, existe uma pergunta mais fundamental: o que separa alguém que monta um negócio de alguém que apenas sonha em montar?
@@ -65,8 +75,6 @@ Negócios que duram têm um "por quê" claro. Não é romantismo — é estraté
 ## Uma observação importante
 
 Mentalidade não é algo que você tem ou não tem. É algo que você pratica. Nenhuma das características abordadas aqui é traço fixo de personalidade — todas são comportamentos que podem ser desenvolvidos com consciência e repetição deliberada. Isso é exatamente o que o Empretec demonstra com décadas de pesquisa e formação de empreendedores no mundo todo.
-
----
 
 ---
 

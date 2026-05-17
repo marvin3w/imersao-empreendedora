@@ -178,8 +178,19 @@ Defina os 3 indicadores que você vai acompanhar todo mês. Crie uma planilha si
 - **Livro:** "Essentialism" de Greg McKeown — sobre priorizar o que realmente importa e eliminar o resto
 - **Livro:** "Tração" de Gino Wickman — sistema de gestão (EOS) especialmente desenvolvido para pequenas empresas
 - **Ferramenta:** Notion, Trello ou Google Keep — gratuitos, suficientes para o início
-
 ---
+
+## Revisão — Revisão Final — Imersão Completa
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Qual é a primeira ação concreta que você vai executar esta semana para tirar sua ideia do papel?
+
+**2.** Quais dos 9 módulos desta imersão trouxeram insights que você ainda não tinha e que vão mudar sua forma de agir?
+
+**3.** O que você vai fazer de diferente no próximo mês por ter passado por esta imersão?
+
+
 
 ---
 

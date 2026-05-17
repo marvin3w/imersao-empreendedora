@@ -9,6 +9,17 @@
 
 ---
 
+## Roteiro do Módulo (4 documentos · ~100 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Identificação de Oportunidades](05-01-Identificacao-Oportunidades.md) | ~25 min |
+| 2 | [Análise de Mercado](05-02-Analise-de-Mercado.md) | ~25 min |
+| 3 | [Proposta de Valor](05-03-Proposta-de-Valor.md) | ~25 min |
+| 4 | [Validação da Ideia](05-04-Validacao-da-Ideia.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 Este é o primeiro módulo da dimensão operacional — o ponto em que você sai do desenvolvimento de mentalidade e comportamento e começa a trabalhar na substância do negócio.
@@ -55,8 +66,6 @@ Como testar se as pessoas realmente vão pagar pelo que você oferece — antes 
 - Entender como fazer uma análise de mercado básica e o que fazer com ela
 - Ter uma proposta de valor clara e testada com potenciais clientes
 - Ter desenhado e executado um piloto mínimo de validação do seu negócio
-
----
 
 ---
 

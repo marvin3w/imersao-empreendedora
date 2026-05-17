@@ -9,6 +9,18 @@
 
 ---
 
+## Roteiro do Módulo (5 documentos · ~130 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Business Model Canvas](06-01-Business-Model-Canvas.md) | ~25 min |
+| 2 | [Sumário Executivo](06-02-Sumario-Executivo.md) | ~20 min |
+| 3 | [Plano Operacional](06-03-Plano-Operacional.md) | ~25 min |
+| 4 | [Plano de Marketing](06-04-Plano-Marketing.md) | ~30 min |
+| 5 | [Plano Financeiro](06-05-Plano-Financeiro.md) | ~30 min |
+
+---
+
 ## O que este módulo cobre
 
 O plano de negócios é o documento que transforma sua visão e sua ideia validada em um modelo operacional compreensível — para você, para sócios, para investidores e para qualquer pessoa que precisar entender como seu negócio funciona.
@@ -59,8 +71,6 @@ Depende do estágio do seu negócio:
 - **Negócio existente querendo crescer:** atualização do plano existente com novos dados e análise dos gaps.
 
 Para a maioria dos negócios pequenos que estão começando, um plano de 10–15 páginas com os 5 componentes básicos é mais útil do que um documento de 80 páginas que ninguém vai reler.
-
----
 
 ---
 

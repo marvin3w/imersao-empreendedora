@@ -9,6 +9,16 @@
 
 ---
 
+## Roteiro do Módulo (3 documentos · ~70 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Primeiras Vendas](09-01-Primeiras-Vendas.md) | ~25 min |
+| 2 | [Presença Digital Básica](09-02-Presenca-Digital-Basica.md) | ~20 min |
+| 3 | [Gestão do Dia a Dia](09-03-Gestao-Dia-a-Dia.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 Você validou a ideia, escreveu o plano, formalizou a empresa e entende a gestão financeira. Agora vem a parte mais difícil e mais concreta: os primeiros 90 dias de operação real.
@@ -49,8 +59,6 @@ Como organizar as semanas, o que acompanhar, quando parar para fazer balanço. A
 Nos primeiros meses, quase nada vai sair exatamente como planejado. Isso é normal — não é sinal de fracasso, é a natureza do começo.
 
 O que você pode controlar é a velocidade de aprendizado e a qualidade das decisões que toma com base no que aprende. Este módulo te dá as ferramentas para isso.
-
----
 
 ---
 

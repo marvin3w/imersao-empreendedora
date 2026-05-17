@@ -9,6 +9,18 @@
 
 ---
 
+## Roteiro do Módulo (5 documentos · ~130 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Tipos de Empresa no Brasil](07-01-Tipos-Empresa-Brasil.md) | ~25 min |
+| 2 | [MEI — Passo a Passo](07-02-MEI-Passo-a-Passo.md) | ~25 min |
+| 3 | [ME, EPP e LTDA](07-03-ME-EPP-LTDA.md) | ~25 min |
+| 4 | [Tributos e Simples Nacional](07-04-Tributos-Simples-Nacional.md) | ~30 min |
+| 5 | [Alvarás e Licenças](07-05-Alvaras-Licencas.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 Formalizar uma empresa no Brasil tem uma reputação de ser complicado e burocrático. Em parte, essa reputação é merecida. Mas os passos básicos — especialmente para negócios pequenos — são muito mais simples do que a maioria das pessoas imagina.
@@ -60,8 +72,6 @@ O que você vai pagar de imposto? Como o Simples Nacional funciona? Como calcula
 Além do CNPJ, dependendo do tipo de negócio e da cidade, você vai precisar de licenças adicionais para operar legalmente.
 
 [Aprofundar](07-05-Alvaras-Licencas.md)
-
----
 
 ---
 

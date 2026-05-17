@@ -164,6 +164,19 @@ Usando a fórmula, calcule quanto você precisa faturar por mês para cobrir tod
 - **Ferramenta:** planilha de plano de negócios do SEBRAE — disponível para download gratuito
 - **Módulo 08 deste material:** Gestão Financeira — aprofundamento em fluxo de caixa, precificação e fontes de financiamento
 - **Contador:** para qualquer negócio com receita acima do MEI, um bom contador vale muito mais do que custa
+---
+
+## Revisão — Módulo 06 — Plano de Negócios
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Qual é o ponto de equilíbrio do seu negócio? Quantas vendas (ou quanto de receita) você precisa gerar por mês para cobrir seus custos fixos?
+
+**2.** Qual é a proposta de valor central que você colocaria no Bloco de Valor do seu Business Model Canvas?
+
+**3.** Qual é sua projeção conservadora de receita para os primeiros 3 meses? Quais premissas sustentam esse número?
+
+
 
 ---
 

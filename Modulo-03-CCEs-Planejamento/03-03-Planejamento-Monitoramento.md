@@ -178,6 +178,19 @@ Quais são as 3 métricas que, se melhorarem, indicam que seu negócio está ind
 - **Livro:** "Tração" de Gino Wickman — sistema de gestão para pequenas empresas que integra metas, métricas e ritmos de reunião
 - **Método:** OKR (Objectives and Key Results) — framework de Google e Intel para metas e métricas; adaptável para negócios pequenos
 - **Ferramenta:** Google Sheets ou Notion para registro de métricas e plano — gratuitos e suficientes para o início
+---
+
+## Revisão — Módulo 03 — CCEs: Planejamento
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Escreva uma meta SMART para o seu negócio nos próximos 90 dias.
+
+**2.** Quais são as 3 principais informações que você ainda precisa buscar antes de avançar com sua ideia?
+
+**3.** Com que frequência e por qual indicador você vai monitorar se está progredindo em direção à sua meta?
+
+
 
 ---
 

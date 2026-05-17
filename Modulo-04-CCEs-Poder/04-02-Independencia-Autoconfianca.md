@@ -154,6 +154,19 @@ Você tem alguma decisão que está evitando tomar, esperando que outros validem
 - **Livro:** "Mindset" de Carol Dweck — sobre como a mentalidade de crescimento sustenta a autoconfiança diante de adversidade
 - **Livro:** "Daring Greatly" de Brené Brown — sobre vulnerabilidade e como ela se relaciona com coragem e autoconfiança real
 - **Conceito:** Inteligência emocional (IE) — a capacidade de reconhecer e gerenciar as próprias emoções é fundamental para a independência saudável
+---
+
+## Revisão — Módulo 04 — CCEs: Poder
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Liste 3 pessoas da sua rede que poderiam apoiar seu projeto de formas diferentes (cliente em potencial, mentor, parceiro operacional).
+
+**2.** Em que situações você tende a buscar aprovação externa antes de agir? Como pode reduzir essa dependência?
+
+**3.** Como você equilibra autoconfiança com abertura para feedback crítico?
+
+
 
 ---
 

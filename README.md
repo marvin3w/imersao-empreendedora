@@ -22,26 +22,28 @@ Este material foi desenhado em três camadas. Você decide até onde quer ir:
 
 ### Dimensão Comportamental (baseada no Empretec)
 
-| Módulo | Tema | Docs |
-|--------|------|------|
-| [Módulo 01](Modulo-01-Mentalidade-Empreendedora/01-00-Visao-Geral.md) | Mentalidade Empreendedora | 4 |
-| [Módulo 02](Modulo-02-CCEs-Realizacao/02-00-Visao-Geral.md) | CCEs — Conjunto da Realização | 6 |
-| [Módulo 03](Modulo-03-CCEs-Planejamento/03-00-Visao-Geral.md) | CCEs — Conjunto do Planejamento | 4 |
-| [Módulo 04](Modulo-04-CCEs-Poder/04-00-Visao-Geral.md) | CCEs — Conjunto do Poder | 3 |
+| Módulo | Tema | Docs | Tempo |
+|--------|------|------|-------|
+| [Módulo 01](Modulo-01-Mentalidade-Empreendedora/01-00-Visao-Geral.md) | Mentalidade Empreendedora | 4 | ~1,5h |
+| [Módulo 02](Modulo-02-CCEs-Realizacao/02-00-Visao-Geral.md) | CCEs — Conjunto da Realização | 6 | ~2,5h |
+| [Módulo 03](Modulo-03-CCEs-Planejamento/03-00-Visao-Geral.md) | CCEs — Conjunto do Planejamento | 4 | ~1,5h |
+| [Módulo 04](Modulo-04-CCEs-Poder/04-00-Visao-Geral.md) | CCEs — Conjunto do Poder | 3 | ~1h |
 
 ### Dimensão Operacional (além do Empretec)
 
-| Módulo | Tema | Docs |
-|--------|------|------|
-| [Módulo 05](Modulo-05-Ideacao-Validacao/05-00-Visao-Geral.md) | Ideação e Validação | 5 |
-| [Módulo 06](Modulo-06-Plano-de-Negocios/06-00-Visao-Geral.md) | Plano de Negócios | 6 |
-| [Módulo 07](Modulo-07-Formalizacao-Legal/07-00-Visao-Geral.md) | Formalização Legal | 6 |
-| [Módulo 08](Modulo-08-Gestao-Financeira/08-00-Visao-Geral.md) | Gestão Financeira | 5 |
-| [Módulo 09](Modulo-09-Primeiros-Passos/09-00-Visao-Geral.md) | Primeiros Passos | 4 |
+| Módulo | Tema | Docs | Tempo |
+|--------|------|------|-------|
+| [Módulo 05](Modulo-05-Ideacao-Validacao/05-00-Visao-Geral.md) | Ideação e Validação | 5 | ~2h |
+| [Módulo 06](Modulo-06-Plano-de-Negocios/06-00-Visao-Geral.md) | Plano de Negócios | 6 | ~2,5h |
+| [Módulo 07](Modulo-07-Formalizacao-Legal/07-00-Visao-Geral.md) | Formalização Legal | 6 | ~2,5h |
+| [Módulo 08](Modulo-08-Gestao-Financeira/08-00-Visao-Geral.md) | Gestão Financeira | 5 | ~2h |
+| [Módulo 09](Modulo-09-Primeiros-Passos/09-00-Visao-Geral.md) | Primeiros Passos | 4 | ~1,5h |
 
 ---
 
 ## Índice Completo
+
+### [📖 Glossário de Termos](GLOSSARIO.md)
 
 ### [00. Panorama Geral](00-Panorama-Geral.md)
 

@@ -9,6 +9,18 @@
 
 ---
 
+## Roteiro do Módulo (5 documentos · ~130 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Busca de Oportunidades e Iniciativa](02-01-Busca-Oportunidades-Iniciativa.md) | ~25 min |
+| 2 | [Persistência](02-02-Persistencia.md) | ~20 min |
+| 3 | [Comprometimento](02-03-Comprometimento.md) | ~25 min |
+| 4 | [Qualidade e Eficiência](02-04-Qualidade-Eficiencia.md) | ~25 min |
+| 5 | [Riscos Calculados](02-05-Riscos-Calculados.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 O Conjunto da Realização reúne as 5 CCEs que determinam **como o empreendedor age para fazer coisas acontecerem**. São os comportamentos que você vai precisar no contato direto com clientes, com problemas inesperados e com a pressão do dia a dia.
@@ -60,8 +72,6 @@ Um empreendedor forte em iniciativa mas fraco em persistência vai começar muit
 - Identificar quais dessas características já estão presentes no seu comportamento atual
 - Ter exercícios práticos para desenvolver cada uma delas no contexto do seu negócio
 - Saber reconhecer quando essas características estão "falhando" para poder corrigi-las a tempo
-
----
 
 ---
 

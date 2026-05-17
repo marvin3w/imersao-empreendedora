@@ -171,6 +171,19 @@ O SEBRAE oferece orientação gratuita sobre crédito e linhas de financiamento 
 - **BNDES:** bndes.gov.br — linhas para pequenas empresas
 - **Anjos do Brasil:** anjosdobrasil.net — rede de investidores-anjo no Brasil
 - **Gov.br:** Pronampe e outros programas federais de crédito
+---
+
+## Revisão — Módulo 08 — Gestão Financeira
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Qual é o capital de giro necessário para o seu negócio operar durante os primeiros 3 meses sem receita?
+
+**2.** Como você vai monitorar o fluxo de caixa no dia a dia? Com qual ferramenta e com qual frequência?
+
+**3.** Quais fontes de financiamento fazem mais sentido para o seu caso: capital próprio, microcrédito, linha SEBRAE/BNDES ou investidor-anjo?
+
+
 
 ---
 

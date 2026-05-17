@@ -147,6 +147,19 @@ Acesse o site da prefeitura da sua cidade ou ligue para o serviço de atendiment
 - **REDESIM:** sistema integrado de registro e licenciamento de empresas em alguns estados (redesim.gov.br)
 - **ANVISA:** registro de produtos e estabelecimentos de saúde em gov.br/anvisa
 - **MAPA:** registro de produtos alimentícios em gov.br/agricultura
+---
+
+## Revisão — Módulo 07 — Formalização Legal
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Qual tipo de empresa (MEI, ME, LTDA) faz mais sentido para o seu caso agora? Por quê?
+
+**2.** Quais licenças e alvarás específicos você precisará para operar no seu município e segmento?
+
+**3.** Qual regime tributário é mais vantajoso para o seu negócio no primeiro ano? Simples Nacional, Lucro Presumido ou Lucro Real?
+
+
 
 ---
 

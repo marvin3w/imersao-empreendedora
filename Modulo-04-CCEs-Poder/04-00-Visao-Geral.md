@@ -9,6 +9,15 @@
 
 ---
 
+## Roteiro do Módulo (2 documentos · ~50 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Persuasão e Rede de Contatos](04-01-Persuasao-Rede-Contatos.md) | ~25 min |
+| 2 | [Independência e Autoconfiança](04-02-Independencia-Autoconfianca.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 O Conjunto do Poder reúne as 2 CCEs que determinam **como o empreendedor influencia pessoas e ambientes ao redor do negócio**. Se os conjuntos anteriores trataram de agir (Realização) e de pensar (Planejamento), este trata de se relacionar e de ser.
@@ -52,8 +61,6 @@ O equilíbrio é ter clareza sobre o que você acredita (independência) e a cap
 - Saber usar técnicas de persuasão ética no contexto de vendas, negociações e parcerias
 - Desenvolver clareza sobre suas convicções e como sustentá-las sob pressão
 - Encontrar o equilíbrio entre ouvir o que outros dizem e confiar na sua própria análise
-
----
 
 ---
 

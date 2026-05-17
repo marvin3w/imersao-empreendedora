@@ -9,6 +9,16 @@
 
 ---
 
+## Roteiro do Módulo (3 documentos · ~75 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Estabelecimento de Metas](03-01-Estabelecimento-Metas.md) | ~25 min |
+| 2 | [Busca de Informações](03-02-Busca-Informacoes.md) | ~25 min |
+| 3 | [Planejamento e Monitoramento Sistemático](03-03-Planejamento-Monitoramento.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 O Conjunto do Planejamento reúne as 3 CCEs que determinam **como o empreendedor pensa e se prepara antes de agir**. Se o Conjunto da Realização é sobre o fazer, o Conjunto do Planejamento é sobre o pensar-antes-de-fazer.
@@ -54,8 +64,6 @@ Sem metas, não há direção. Sem informação, o planejamento é baseado em su
 - Ter um processo sistemático de coleta de informações relevantes para o negócio
 - Entender como criar um plano operacional simples e monitorá-lo de forma regular
 - Saber quando um plano precisa ser ajustado versus quando precisa ser abandonado
-
----
 
 ---
 

@@ -139,6 +139,19 @@ Qual é a menor versão do seu negócio que você poderia testar em 30 a 60 dias
 - **Livro:** "Antifrágil" de Nassim Taleb — sobre como construir sistemas que se beneficiam da incerteza em vez de serem destruídos por ela
 - **Livro:** "A Startup Enxuta" de Eric Ries — o framework de construir, medir e aprender com apostas mínimas
 - **Ferramenta:** Análise SWOT (Forças, Fraquezas, Oportunidades, Ameaças) — um dos instrumentos mais simples para mapear riscos de forma estruturada
+---
+
+## Revisão — Módulo 02 — CCEs: Realização
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Cite uma situação em que você demonstrou (ou poderia ter demonstrado) persistência além do esperado. O que te manteve ou te fez desistir?
+
+**2.** Qual a diferença entre correr riscos calculados e ser imprudente? Como você aplicaria isso na sua ideia de negócio?
+
+**3.** Como você definiria 'qualidade e eficiência' no serviço ou produto que pretende oferecer? O que o cliente vai perceber como diferença?
+
+
 
 ---
 

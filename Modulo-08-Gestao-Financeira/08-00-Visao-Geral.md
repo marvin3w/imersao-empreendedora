@@ -9,6 +9,17 @@
 
 ---
 
+## Roteiro do Módulo (4 documentos · ~105 min)
+
+| # | Documento | Tempo |
+|---|-----------|-------|
+| 1 | [Capital de Giro](08-01-Capital-de-Giro.md) | ~25 min |
+| 2 | [Fluxo de Caixa](08-02-Fluxo-de-Caixa.md) | ~30 min |
+| 3 | [Precificação](08-03-Precificacao.md) | ~25 min |
+| 4 | [Fontes de Financiamento](08-04-Fontes-Financiamento.md) | ~25 min |
+
+---
+
 ## O que este módulo cobre
 
 A gestão financeira é o maior ponto cego dos empreendedores iniciantes. Não por falta de inteligência — mas porque ninguém ensina isso de forma prática.
@@ -56,8 +67,6 @@ Antes de qualquer ferramenta ou técnica: **separe as finanças pessoais das da 
 Conta bancária separada. Pró-labore definido. Nenhuma mistura.
 
 Sem essa separação, você nunca vai saber se o negócio está lucrando ou não — e vai descobrir tarde demais quando estiver no prejuízo.
-
----
 
 ---
 

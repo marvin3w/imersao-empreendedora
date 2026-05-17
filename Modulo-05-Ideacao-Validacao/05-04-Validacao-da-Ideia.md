@@ -169,6 +169,19 @@ Para validação de problema, escreva as 5 perguntas que você vai fazer. Verifi
 - **Livro:** "The Mom Test" de Rob Fitzpatrick — o melhor livro sobre como fazer entrevistas de cliente sem viesar os resultados
 - **Livro:** "Sprint" de Jake Knapp (Google Ventures) — metodologia de validação de ideias em 5 dias
 - **Livro:** "A Startup Enxuta" de Eric Ries — o framework completo de construir, medir e aprender
+---
+
+## Revisão — Módulo 05 — Ideação e Validação
+
+Antes de avançar, reflita sobre estas perguntas. Não há resposta certa — o valor está na honestidade da sua reflexão.
+
+**1.** Qual é a hipótese central da sua ideia de negócio? Como você testaria ela com o menor custo e no menor tempo possível?
+
+**2.** Descreva seu cliente ideal com 5 características específicas — não características genéricas como 'pessoa de 25 a 45 anos'.
+
+**3.** Qual problema você resolve? Você já confirmou com pelo menos 3 potenciais clientes que essa dor existe para eles?
+
+
 
 ---
 
