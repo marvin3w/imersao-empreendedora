@@ -4,6 +4,11 @@
 
 ---
 
+> 🎧 **Recursos complementares deste módulo:** [Abrir no NotebookLM](https://notebooklm.google.com/notebook/ba13cea9-f164-4dcb-8c2c-fea2a9228d85)
+> Podcast, mapa mental e cartões didáticos gerados a partir do conteúdo desta imersão.
+
+---
+
 ## O que este módulo cobre
 
 Você validou a ideia, escreveu o plano, formalizou a empresa e entende a gestão financeira. Agora vem a parte mais difícil e mais concreta: os primeiros 90 dias de operação real.

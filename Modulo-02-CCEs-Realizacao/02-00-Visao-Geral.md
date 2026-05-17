@@ -4,6 +4,11 @@
 
 ---
 
+> 🎧 **Recursos complementares deste módulo:** [Abrir no NotebookLM](https://notebooklm.google.com/notebook/ba13cea9-f164-4dcb-8c2c-fea2a9228d85)
+> Podcast, mapa mental e cartões didáticos gerados a partir do conteúdo desta imersão.
+
+---
+
 ## O que este módulo cobre
 
 O Conjunto da Realização reúne as 5 CCEs que determinam **como o empreendedor age para fazer coisas acontecerem**. São os comportamentos que você vai precisar no contato direto com clientes, com problemas inesperados e com a pressão do dia a dia.

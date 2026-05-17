@@ -4,6 +4,11 @@
 
 ---
 
+> 🎧 **Recursos complementares deste módulo:** [Abrir no NotebookLM](https://notebooklm.google.com/notebook/ba13cea9-f164-4dcb-8c2c-fea2a9228d85)
+> Podcast, mapa mental e cartões didáticos gerados a partir do conteúdo desta imersão.
+
+---
+
 ## O que este módulo cobre
 
 O Conjunto do Planejamento reúne as 3 CCEs que determinam **como o empreendedor pensa e se prepara antes de agir**. Se o Conjunto da Realização é sobre o fazer, o Conjunto do Planejamento é sobre o pensar-antes-de-fazer.

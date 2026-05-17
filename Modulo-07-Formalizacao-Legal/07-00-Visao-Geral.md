@@ -4,6 +4,11 @@
 
 ---
 
+> 🎧 **Recursos complementares deste módulo:** [Abrir no NotebookLM](https://notebooklm.google.com/notebook/ba13cea9-f164-4dcb-8c2c-fea2a9228d85)
+> Podcast, mapa mental e cartões didáticos gerados a partir do conteúdo desta imersão.
+
+---
+
 ## O que este módulo cobre
 
 Formalizar uma empresa no Brasil tem uma reputação de ser complicado e burocrático. Em parte, essa reputação é merecida. Mas os passos básicos — especialmente para negócios pequenos — são muito mais simples do que a maioria das pessoas imagina.
